@@ -406,7 +406,7 @@ print(requests.post("https://phapi.furina.junmatec.cn/v1/chat/completions",
 | 可以商用吗？ | 完全可用于商业项目。 |
 
 ## 附录 A 官方GitHub
-- GitHub 地址：<https://github.com/PhantasmAI/xxx>  
+- GitHub 地址：<https://github.com/PhantasmAI/PromptMicroTune-Revolution>  
 
 ## 附录 B 社区优秀示例（节选）
 以下示例全部来自官方系统提示的案例区，可直接拷贝：  
@@ -1339,7 +1339,7 @@ print(requests.post("https://phapi.furina.junmatec.cn/v1/chat/completions",
 ---
 
 **祝你与 TIG-3.6 玩得尽兴！**  
-任何疑问欢迎在[社区论坛]([https://qm.qq.com/q/Up5WeUakMA](https://bbs.furina.chat/))留言，或通过[添加QQ交流群](https://qm.qq.com/q/Up5WeUakMA)联系支持团队。
+任何疑问欢迎在[社区论坛](https://bbs.furina.chat/t/topic/198)留言，或通过[添加QQ交流群](https://qm.qq.com/q/Up5WeUakMA)联系支持团队。
 
 ---联系支持团队。
 
