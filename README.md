@@ -1,8 +1,6 @@
 # PromptMicroTune-Revolution
 把一段提示词变成“软微调”——重塑大模型定制成本与想象力的边界
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PhantasmAI/PromptMicroTune-Revolution/main/docs/banner.png" width="620"/>
-</p>
+
 
 ## 🌌 为什么是一次“革命”？
 > 过去：微调 = 显卡 + LoRA + 数小时训练  
@@ -1340,8 +1338,6 @@ print(requests.post("https://phapi.furina.junmatec.cn/v1/chat/completions",
 
 **祝你与 TIG-3.6 玩得尽兴！**  
 任何疑问欢迎在[社区论坛](https://bbs.furina.chat/t/topic/198)留言，或通过[添加QQ交流群](https://qm.qq.com/q/Up5WeUakMA)联系支持团队。
-
----联系支持团队。
 
 ---
 
