@@ -777,12 +777,16 @@ print(requests.post("https://phapi.furina.junmatec.cn/v1/chat/completions",
 
 ### 2.1 结构示意
 
-![结构示意|269x322, 100%](upload://hQkluEKJjwKKymYyy0qn7YqiY35.png)
-
-
-这是将结构示意图转换为标准流程图格式的结果。我使用了Mermaid语法创建了一个自上而下的流程图，清晰地展示了三个步骤的顺序关系和各自的功能描述。不同的颜色填充帮助区分各个步骤的不同性质。
-
-注：在支持Mermaid语法的平台上（如GitHub、GitLab或特定的Markdown编辑器），上面的代码会渲染为一个可视化的流程图。
+```mermaid
+flowchart TD
+    A["第1段：问题(用户想让角色做什么)"] --> B
+    B["第2段：thinking(角色的内心独白与推理)"] --> C
+    C["第3段：回答(角色正式开口)"]
+    
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style B fill:#bbf,stroke:#333,stroke-width:2px
+    style C fill:#bfb,stroke:#333,stroke-width:2px
+```
 
 
 ### 2.2 官方示例
