@@ -137,9 +137,9 @@
 
 ```mermaid
 flowchart TD
-    A["第1段：问题\n(用户想让角色做什么)"] --> B
-    B["第2段：thinking\n(角色的内心独白与推理)"] --> C
-    C["第3段：回答\n(角色正式开口)"]
+    A["第1段：问题(用户想让角色做什么)"] --> B
+    B["第2段：thinking(角色的内心独白与推理)"] --> C
+    C["第3段：回答(角色正式开口)"]
     
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style B fill:#bbf,stroke:#333,stroke-width:2px
