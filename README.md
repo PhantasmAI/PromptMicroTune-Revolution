@@ -408,7 +408,7 @@ print(requests.post("https://phapi.furina.junmatec.cn/v1/chat/completions",
 | 可以商用吗？ | 完全可用于商业项目。 |
 
 ## 附录 A 官方GitHub
-- GitHub 地址：<https://github.com/PhantasmAI/xxx>  
+- GitHub 地址：<https://github.com/PhantasmAI/PromptMicroTune-Revolution>  
 
 ## 附录 B 社区优秀示例（节选）
 以下示例全部来自官方系统提示的案例区，可直接拷贝：  
